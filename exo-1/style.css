@@ -1,0 +1,15 @@
+nav {
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+h1:hover {
+    color: magenta  ;
+}
+main {
+    width: 800px;
+}
